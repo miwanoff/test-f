@@ -5,3 +5,4 @@ function dogs(n) {
 }
 
 let n = prompt("input n");
+dogs(n);
